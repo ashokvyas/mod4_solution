@@ -1,0 +1,6 @@
+li[ui-sref]:hover {
+    color: red;
+	cursor: pointer;
+	width: 270px;
+	text-decoration: underline;
+}
